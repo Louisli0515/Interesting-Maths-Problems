@@ -6,4 +6,5 @@ This file includes all the interesting Maths problems provided by my friends, pr
 A box contains $N$ balls, of which $r$ are red and $N-r$ are black. Balls are drawn from the box until a red ball is drawn. Show that the expected number of draws is $$\frac{N+1}{r+1}.$$
 
 ### Solution
-Let $X$ denote the number of draws until a red ball is drawn. Then $X$ takes values in the set $$\left\{1,2,\ldots,N\right\}$$
+![WeChat Image_20230319190742](https://user-images.githubusercontent.com/128298224/226202935-1c3fdc31-6b8e-4771-addc-c868fcb2ee58.png)
+
