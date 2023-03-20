@@ -7,5 +7,6 @@ This file includes all the interesting Maths problems provided by my friends, pr
 
 
 ### Solution
-![WeChat Image_20230319190742](https://user-images.githubusercontent.com/128298224/226202935-1c3fdc31-6b8e-4771-addc-c868fcb2ee58.png)
+![part1](https://user-images.githubusercontent.com/128298224/226312252-5065cbb9-58ee-4b37-b3ae-29b253532c22.png)
+![part2](https://user-images.githubusercontent.com/128298224/226312259-2428f96a-7a5a-4709-a8b0-5783b4b8fbba.png)
 
